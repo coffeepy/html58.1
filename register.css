@@ -1,0 +1,82 @@
+.registration, .login {
+  display: inline-block;
+  width: 40%;
+  color:white;
+  height: 500px;
+  padding: 10px;
+  margin: 10px;
+  overflow: hidden;
+}
+
+body {
+  color: darkblue;
+}
+.darkblue {
+  color: darkblue;
+}
+.register-info, .login-info {
+  width: 90%;
+  margin: 0;
+  padding:0;
+}
+.btn-div {
+  width: 95%;
+  height: 37px;
+}
+.reg-btn {
+  position: relative;
+  display: block;
+  float: right;
+  width: 150px;
+  background: none;
+  padding: 10px;
+  border: 3px solid darkblue;
+  color: darkblue;
+}
+.login-btn {
+  display: inline-block;
+  float: right;
+  width: 150px;
+  background: none;
+  padding: 10px;
+  border: 3px solid orange;
+  color: white;
+}
+input[type="checkbox"] {
+  margin-top: 20px;
+  display: inline-block;
+}
+a {
+  display: block;
+  float: right;
+  width: 150px;
+  color: white;
+}
+.forgot-pw{
+  margin-top: 10px;
+}
+.reg-log {
+  background: lightgray;
+  padding: 10px;
+}
+.registration {
+  color: gray;
+  background: none;
+}
+.login {
+  background-color: darkblue;
+  position: fixed;
+}
+.lg-input {
+  display:block;
+  height: 30px;
+  margin: 10px;
+  width: 100%;
+}
+.reg-input {
+  border: 3px solid darkorange;
+  border-radius: 2px;
+}
+.darkblue {
+  color: darkblue;
+}
